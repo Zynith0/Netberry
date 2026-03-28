@@ -4,7 +4,7 @@ This is a little colorscheme for neovim that I made, and I'm likely going to mak
 # Install instructions
 - Clone the repo
 ```bash
-https://github.com/Zynith0/Netberry
+git clone https://github.com/Zynith0/Netberry
 ```
 - Move the folder into your neovim lua directory
 ```bash
